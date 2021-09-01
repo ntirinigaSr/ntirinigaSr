@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ntirinigaSr
-- 👀 I’m interested in Flutter, Dart, AWS, Firebase and Pytorch
-- 🌱 I’m currently learning Pytorch
+- 👀 I’m interested in Flutter, Dart, AWS Amplify, Nodejs, Firebase and Pytorch
+- 🌱 I’m currently learning Pytorch and Node js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @clarantiriniga@gmail.com
 
