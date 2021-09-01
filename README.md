@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ntirinigaSr
 - 👀 I’m interested in Flutter, Dart, AWS Amplify, Nodejs, Firebase and Pytorch
 - 🌱 I’m currently learning Pytorch and Node js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @clarantiriniga@gmail.com
+- 💞️ I’m looking to build Mobile apps, Restful APIs and Natural Language Processing(NLP) models
+- 📫 Reach me @clarantiriniga@gmail.com
 
 <!---
 ntirinigaSr/ntirinigaSr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
