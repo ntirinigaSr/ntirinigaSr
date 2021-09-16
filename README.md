@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ntirinigaSr
-- 👀 I’m interested in Flutter, Dart, AWS Amplify, Nodejs, Firebase and Pytorch
+- 👀 I’m interested in Flutter, Dart, AWS Amplify, Nodejs, Firebase, Rust and Solana
 - 🌱 I’m currently learning Pytorch and Node js
-- 💞️ I’m looking to build Mobile apps, Restful APIs and Natural Language Processing(NLP) models
+- 💞️ I’m looking to build Mobile apps, Restful APIs, NFTs, De-Fi and Dapps
 - 📫 Reach me @clarantiriniga@gmail.com
 
 <!---
