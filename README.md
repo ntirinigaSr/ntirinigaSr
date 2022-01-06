@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ntirinigaSr
 - 👀 I’m interested in React,Rust and Solana
-- 🌱 I’m currently learning Rust and Solana
 - 💞️ I’m looking to build Mobile apps, NFTs, De-Fi and Dapps
 - 📫 Reach me @clarantiriniga@gmail.com, and https://twitter.com/MNtiriniga
 
